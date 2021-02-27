@@ -1,15 +1,10 @@
 # coding=utf-8
 import base64
-from os import fsdecode
 import pymongo
 import json
 from bson import json_util
 from bson.objectid import ObjectId
-from base64 import b64encode
-from PIL import Image
-from cv2 import cv2
 from io import *
-import numpy  
 
 class ImagesDAO:
 
