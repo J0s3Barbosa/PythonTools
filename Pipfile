@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.6"
+
+[dev-packages]
+httpie = "*"
+pytest = "*"
+
+[packages]
+flask = "*"
+pymongo = "*"
+gunicorn = "*"
+atomicwrites = "*"
+attrs = "*"
+dnspython = "*"
+iniconfig = "*"
+itsdangerous = "*"
+Jinja2 = "*"
+MarkupSafe = "*"
+packaging = "*"
+pluggy = "*"
+py = "*"
+pycodestyle = "*"
+pyparsing = "*"
+pytest = "*"
+toml = "*"
+Werkzeug = "*"
+flask-sqlalchemy = "*"
+flask-login = "*"
+pyscreenshot = "*"
+pyautogui = "*"
+opencv-python = "*"
+numpy = "*"
