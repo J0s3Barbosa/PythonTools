@@ -319,13 +319,6 @@
             "index": "pypi",
             "version": "==1.10.0"
         },
-        "pyautogui": {
-            "hashes": [
-                "sha256:a486cb6b818bcbcdf98b48d010c7cee964134fa394b756e8ce6e50d43b58ecc8"
-            ],
-            "index": "pypi",
-            "version": "==0.9.52"
-        },
         "pycodestyle": {
             "hashes": [
                 "sha256:2295e7b2f6b5bd100585ebcb1f616591b652db8a741695b3d8f5d28bdc934367",
